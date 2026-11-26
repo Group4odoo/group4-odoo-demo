@@ -37,7 +37,7 @@ Only free Odoo apps are used: Accounting, Inventory, Manufacturing, Purchase, Sa
 3. Branches (POS only)
 4. Invoicing and collection
 
-![Sales teams](images/sales-teams.png)
+![Sales teams](images/3-sales-teams.png)
 
 الفرق الأربعة: التجارة الخارجية والعقود، الجملة، الفروع (نقاط البيع فقط)، الفواتير والتحصيل.
 
@@ -57,7 +57,7 @@ Only free Odoo apps are used: Accounting, Inventory, Manufacturing, Purchase, Sa
 - Per branch: decor, shelves, display fridges and freezers, AC, computers, desks, chairs, cabinets, safe, scales, oven, reheating oven, hot display cabinet. Factories: production equipment per work center. Fleet: 15 vehicles including 6 refrigerated trucks, linked to Fleet records.
 - A capital increase of 60 million EGP on Jan 2 funds the asset purchases, so the bank balance stays positive every month.
 
-![Assets list](images/assets-list.png)
+![Assets list](images/2-assets-list.png)
 
 ## Results (Jan 1 to Nov 26, 2026)
 
@@ -70,7 +70,7 @@ Only free Odoo apps are used: Accounting, Inventory, Manufacturing, Purchase, Sa
 
 ### Branch profit
 
-![Branch profit](images/branch-profit.png)
+![Branch profit](images/1-branch-profit.png)
 
 Each branch earns about 2.8 million revenue (before tax) and about 1.3 to 1.4 million profit (45 to 49% margin).
 
